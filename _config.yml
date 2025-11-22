@@ -23,4 +23,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-base-url: /jekyll-tutorial/
+baseurl: /jekyll-tutorial/
